@@ -1,3 +1,4 @@
-# Source Code
+# SnapSense Project Submission Files
 
-The complete project source code must be added to this folder.
+This folder contains the complete file structure and content for the SnapSense project, created for the Samsung EnnovateX 2025 AI Challenge.
+
