@@ -6,7 +6,7 @@ SnapSense is a lightweight, responsive desktop application designed to bridge th
 Let's go beyond model and traditional interaction capabilities on any edge device. A solution that addresses a real-world problem by leveraging on-device Generative AI, while pioneering novel, effective, and intuitive Human-AI Interaction (H-AI).)*
 - **Team name** - *(Cognita)*
 - **Team members (Names)** - *Parth Mani Sharma*, *Anjali Singh*
-- **Demo Video Link** - *(Upload the Demo video on Youtube as a public or unlisted video and share the link. Google Drive uploads or any other uploads are not allowed.)*
+- **Demo Video Link** - https://www.youtube.com/watch?v=qyXOQEnUo3o&feature=youtu.be
 
 
 ### Project Artefacts
